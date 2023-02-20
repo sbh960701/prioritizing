@@ -1,0 +1,11 @@
+,name,EntryId,Sequence,BaseEntryId,BaseEntrySequence,HardLinkCount,UsedEntrySize,TotalEntrySize,FileSize,IsDeleted,SIFlags,SILastModified,SILastAccess,SICreated,FNFlags,FNLastModified,FNLastAccess,FNCreated
+0,NBITSParser_MFT.exe,69,4,0,0,1,360,1024,31243279,0,0,1,1,0,0,0,0,0
+1,nbits_collector.exe,70,10,0,0,1,360,1024,11896785,0,0,1,1,0,0,0,0,0
+2,signtool.exe,74,25,0,0,1,352,1024,330944,0,0,1,1,0,0,0,0,0
+3,setup.exe,1453,3,0,0,1,344,1024,3220050,1,0,1,1,0,0,1,1,0
+4,install.exe,1769,7,0,0,1,344,1024,560464,1,0,0,1,0,0,1,1,1
+5,$RN9Q8NC.exe,2417,2,0,0,1,352,1024,250880,1,0,1,1,0,0,1,1,0
+6,VMware-player-12.1.0-3272444.exe,3780,2,0,0,1,392,1024,73121952,1,0,1,1,0,0,1,1,0
+7,Snort_2_9_0_4_Installer.exe,3952,2,0,0,1,376,1024,3394988,1,0,1,1,0,0,1,1,0
+8,$IN9Q8NC.exe,26909,285,0,0,1,400,1024,90,1,0,1,1,0,0,0,0,0
+9,Setup.exe,27004,3,0,0,1,344,1024,78152,1,0,0,1,0,0,1,1,1

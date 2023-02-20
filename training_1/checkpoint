@@ -1,0 +1,2 @@
+model_checkpoint_path: "cpwmi.ckpt"
+all_model_checkpoint_paths: "cpwmi.ckpt"
